@@ -1,3 +1,6 @@
+## This file processes the power consumption data
+## The getdata() function will return a dataframe required by the plot#.R functions
+
 
 getdata <- function()
 {
